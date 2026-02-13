@@ -1,10 +1,7 @@
 const messages = [
     "Are you sure?",
     "ARE YOU Really sure??",
-    "Babyyy please...",
-    "Usikuwe ivo :(",
-    "If you say no, I'm gonna be cooked, ntachizi haha...",
-    "Ntakuwa very very sad, deadass...",
+    "come on, are we deadass rn?😭...",
     "My heart is breaking... 💔",
     "Ok fine, I will stop asking...",
     "TRICIA, TAP YES! ❤️"
