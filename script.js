@@ -1,19 +1,13 @@
 const messages = [
     "Are you sure?",
-    "Really sure??",
-    "Pookie please...",
-    "Don't do this to me :(",
-    "I will buy you sweet treats! 🍫",
-    "I'll give you my hoodie!",
-    "I'll even let you win in games!",
-    "If you say no, I'm gonna be cooked...",
-    "I'll just stare at the ceiling...",
-    "I will be very very sad...",
-    "I'm literally crying rn...",
+    "ARE YOU Really sure??",
+    "Babyyy please...",
+    "Usikuwe ivo :(",
+    "If you say no, I'm gonna be cooked, ntachizi haha...",
+    "Ntakuwa very very sad, deadass...",
     "My heart is breaking... 💔",
-    "Pretty please with a cherry on top? 🍒",
     "Ok fine, I will stop asking...",
-    "Just kidding, SAY YES POOKIE! ❤️"
+    "TRICIA, TAP YES! ❤️"
 ];
 let messageIndex = 0;
 
