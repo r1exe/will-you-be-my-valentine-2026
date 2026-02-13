@@ -133,13 +133,14 @@ h2 {
 }
 
 /* ========== SQUISHY BUTTON ANIMATIONS ========== */
-.yes-button {
-  font-family: 'Homemade Apple', cursive;
-  font-size: 1.4em;
-  padding: 16px 36px;
-  background: linear-gradient(145deg, #ffc1cc, #ffb3bf);
-  color: #8b0a50;
-  border: 4px solid #ffffff;
+ .yes-button {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    font-weight: 800; /* Makes it nice and thick */
+    font-size: 1.6em;
+    padding: 16px 36px;
+    background: linear-gradient(145deg, #ffc1cc, #ffb3bf);
+    color: #8b0a50; /* This dark pink you already have is perfect */
+ border: 4px solid #ffffff;
   border-radius: 50px;
   cursor: pointer;
   box-shadow: 
@@ -178,11 +179,9 @@ h2 {
 }
 
 .no-button {
-  font-family: 'Homemade Apple', cursive;
-  font-size: 1.4em;
-  padding: 16px 36px;
-  background: #ffffff;
-  color: #ff69b4;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    font-weight: 800;
+    color: #8b0a50; /* Making this dark ensures it's visible on the light button */
   border: 4px solid #ffc1cc;
   border-radius: 50px;
   cursor: pointer;
